@@ -1,0 +1,57 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(rgb(113, 255, 193), rgb(195, 255, 112));
+
+ul{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.link-header{
+    background-color: aquamarine;
+    border-radius: 4px;
+    border-color: rgb(110, 255, 154);
+    border: 1px;
+    text-decoration: none;
+    color: rgb(92, 215, 70);
+}
+.link-header:hover{
+    background-color: rgb(177, 255, 229);
+    border-radius: 4px;
+    border-color: rgb(110, 255, 248);
+    border: 1px;
+    text-decoration: none;
+    color: rgb(59, 182, 151);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section{
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 15px;
+    font-size: 20px;
+}
+section h2{
+    color: white;
+    font-size: 40px;
+}
+p img{
+    border-radius: 15px;
+}
+img{
+    border-radius: 20px;
+    border-color: rgb(110, 255, 154);
+    border-style: solid;
+}
+.social{
+    position: relative;
+    left:370px;
+}
+.okak{
+    position: relative;
+    left:170px;
+}
+.dough{
+    text-align: left;
+}
